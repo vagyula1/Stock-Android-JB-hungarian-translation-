@@ -286,7 +286,7 @@
     <string name="global_actions">Telefonbeállítások</string>
     <string name="global_action_lock">Képernyő lezárása</string>
     <string name="global_action_power_off">Kikapcsolás</string>
-   
+    <string name="global_action_suspend">Képernyő lezárása</string>
     <string name="global_action_toggle_silent_mode">Néma üzemmód</string>
     <string name="global_action_silent_mode_on_status">Hang kikapcsolva</string>
     <string name="global_action_silent_mode_off_status">Hang bekapcsolva</string>
@@ -736,6 +736,7 @@
     <string name="keyguard_password_enter_password_code">A feloldáshoz írja be a jelszót</string>
     <string name="keyguard_password_enter_pin_password_code">Feloldáshoz írja be a PIN kódot</string>
     <string name="keyguard_password_wrong_pin_code">Helytelen PIN kód.</string>
+	<string name="keyguard_pin_accepted">A kód elfogadva!</string>
     <string name="keyguard_label_text">A feloldáshoz nyomja meg a Menü, majd a 0 gombot.</string>
     <string name="emergency_call_dialog_number_for_display">Segélyhívó szám</string>
     <string name="lockscreen_carrier_default">Nincs szolgáltatás</string>
@@ -954,7 +955,7 @@ Szeretné bezárni?"</string>
     <string name="smv_process">%1$s folyamat megsértette az általa kényszerített Szigorú üzemmód irányelvet.</string>
     <string name="android_upgrading_title">Android frissítése folyamatban...</string>
     <string name="android_upgrading_apk">Alkalmazás optimalizálása: %1$d/%2$d.</string>
-    <string name="android_upgrading_starting_apps">Kezdő alkalmazások.</string>
+    <string name="android_upgrading_starting_apps">Alkalmazások indítása</string>
     <string name="android_upgrading_complete">Rendszerindítás befejezése.</string>
     <string name="heavy_weight_notification">%1$s fut</string>
     <string name="heavy_weight_notification_detail">Érintse meg az alkalmazásra váltáshoz</string>

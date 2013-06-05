@@ -1019,12 +1019,7 @@ A titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral 
     <string name="enforce_read_external_title">SD kártya védetté tétele</string>
     <string name="enforce_read_external_summary">Az alkalmazások kérjenek engedélyt az SD kártya olvasására</string>
     <string name="enforce_read_external_confirm_title">Védetté teszi az SD kártyát?</string>
-<<<<<<< HEAD
-    <string name="enforce_read_external_confirm_message">"Ha az SD kártya védett, az alkalmazásoknak engedélyt kell kérniük a külső tárhelyen tárolt adatok olvasására.
-Előfordulhat,hogy egyes alkalmazások nem működnek addig, amíg a fejlesztők nem frissítik azokat.</string>
-=======
     <string name="enforce_read_external_confirm_message">Ha az SD kártya védett, az alkalmazásoknak engedélyt kell kérniük a külső tárhelyen tárolt adatok olvasására.Előfordulhat,hogy egyes alkalmazások nem működnek addig, amíg a fejlesztők nem frissítik azokat.</string>
->>>>>>> 02.22
     <string name="gadget_picker_title">Modul kiválasztása</string>
     <string name="widget_picker_title">Modul kiválasztása</string>
     <string name="battery_history_days">%1$d n %2$d ó %3$d p %4$d mp</string>
@@ -1625,10 +1620,8 @@ Előfordulhat,hogy egyes alkalmazások nem működnek addig, amíg a fejlesztők
     <string name="font_size_medium">Közepes</string>
     <string name="font_size_large">Nagy</string>
     <string name="font_size_huge">Óriás</string>
-
     <string name="password_guard">Biztonság</string>
     <string name="title_dolby_control">Dolby vezérlő</string>
- 
     <string name="wifi_menu_wfd">Wi-Fi kijelzés</string>
     <string name="wfd_settings_title">Wi-Fi Kijelzés beállításai</string>
     <string name="wfd_menu_search">Eszközök keresése</string>
@@ -1664,8 +1657,7 @@ Próbálja a következőt:
     <string name="vpn_settings_password">VPN Password Settings</string>
     <string name="vpn_safe">VPN Security</string>
     <string name="vpn_configure">Configure VPN</string>
-    <string name="sync_wifi_label">Wi-Fi Sync settings</string>
-  
+    <string name="sync_wifi_label">Wi-Fi Sync settings</string> 
     <string name="screen">Képernyő</string>
     <string name="system">Rendszer</string>
     <string name="screen_color_temperature_adjust">Színhőmérséklet</string>
@@ -1686,9 +1678,7 @@ Próbálja a következőt:
     <string name="wifi_disabled_heading" />
     <string name="wifi_enable_watchdog_service">Avoid poor connections</string>
     <string name="wifi_network_setup">WPS</string>
-    <string name="wifi_p2p_wps_pin">Type PIN</string>
-  
-   <string name="power_mode">Teljesítmény</string>
+    <string name="wifi_p2p_wps_pin">Type PIN</string> 
     <string name="debug_ui_category">User interface</string>
     <string name="device_internal_data">Data:</string>
     <string name="device_internal_partition">Data/SD card:</string>
