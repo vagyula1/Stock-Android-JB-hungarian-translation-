@@ -6,8 +6,8 @@
         <item>Afrika</item>
         <item>Ázsia</item>
         <item>Ausztrália</item>
-	<item>Csendes-óceán</item>
-	<item>Összes</item>    
+        <item>Csendes-óceán</item>
+        <item>Összes</item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 másodperc</item>
@@ -15,7 +15,7 @@
         <item>1 perc</item>
         <item>2 perc</item>
         <item>5 perc</item>
-	<item>10 perc</item>
+        <item>10 perc</item>
         <item>30 perc</item>
     </string-array>
     <string-array name="dream_timeout_entries">
@@ -34,7 +34,7 @@
         <item>15 másodperc</item>
         <item>30 másodperc</item>
         <item>1 perc</item>
-	<item>2 perc</item>
+        <item>2 perc</item>
         <item>5 perc</item>
         <item>10 perc</item>
         <item>30 perc</item>
@@ -164,12 +164,12 @@
     <string-array name="app_install_location_entries">
         <item>Belső tárhely</item>
         <item>Eltávolítható SD-kártya</item>
-	<item>Döntse el a rendszer</item>
+        <item>Döntse el a rendszer</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
-	<item>Rövid</item>
-	<item>Közepes</item>
-	<item>Hosszú</item>
+        <item>Rövid</item>
+        <item>Közepes</item>
+        <item>Hosszú</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Ellenőrzés soha</item>
@@ -197,20 +197,28 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animáció ki</item>
-	<item>Animáció mérete: 0,5x</item>
+        <item>Animáció mérete: 0,5x</item>
         <item>Animáció mérete: 1x</item>
         <item>Animáció mérete: 1,5x</item>
-        <item>Animáció mérete: 2x</item>   
+        <item>Animáció mérete: 2x</item>
         <item>Animáció mérete: 5x</item>
         <item>Animáció mérete: 10x</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-	<item>Normál korlátozás</item>
+        <item>Normál korlátozás</item>
         <item>Nincsenek háttérfolyamatok</item>
         <item>Legfeljebb 1 folyamat</item>
         <item>Legfeljebb 2 folyamat</item>
         <item>Legfeljebb 3 folyamat</item>
         <item>Legfeljebb 4 folyamat</item>
+    </string-array>
+    <string-array name="vpn_types">
+        <item>PPTP</item>
+        <item>L2TP/IPSec PSK</item>
+        <item>L2TP/IPSec RSA</item>
+        <item>IPSec Xauth PSK</item>
+        <item>IPSec Xauth RSA</item>
+        <item>IPSec Hybrid RSA</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
@@ -224,17 +232,25 @@
         <item>Szétkapcsolva</item>
         <item>Inicializálás...</item>
         <item>Csatlakozás…</item>
-	<item>Csatlakoztatva</item>
-	<item>Időtúllépés</item>
+        <item>Csatlakoztatva</item>
+        <item>Időtúllépés</item>
         <item>Sikertelen</item>
     </string-array>
+   
     <string-array name="haptic_feedback_level_entries">
-  	<item>Gyenge</item>
+        <item>Gyenge</item>
         <item>Közepes</item>
         <item>Erős</item>
     </string-array>
-    <string-array name="power_mode_entries">
-        <item>Teljesítmény</item>
+
+    <string-array name="usb_connection_mode_entries">
+        <item>Mindig kérdezzen rá</item>
+        <item>Csak töltés</item>
+        <item>SD kártya felcsatolása</item>
+    </string-array>
+
+ <string-array name="power_mode_entries">
+        <item>Maximális</item>
         <item>Normál</item>
         <item>Energiatakarékos</item>
     </string-array>
