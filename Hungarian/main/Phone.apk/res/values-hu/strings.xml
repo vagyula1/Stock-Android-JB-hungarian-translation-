@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="which_call_to_activate">Mely hívást kívánja aktiválni?</string>
     <string name="absent_num">HIÁNYZÓ SZÁM</string>
     <string name="accessibility_call_muted">Hívás némítva.</string>
     <string name="accessibility_speakerphone_enabled">Kihangosítás engedélyezve.</string>
@@ -18,7 +17,6 @@
     <string name="advanced_settings">További beállítások</string>
     <string name="advertisements_disable">Hirdetések letiltva</string>
     <string name="advertisements_enable">Hirdetések engedélyezve</string>
-    <string name="alert_device_error">Hiba történt az audió eszközön</string>
     <string name="alert_dialog_close">A profil bezárása</string>
     <string name="alert_dialog_dismiss">Elvetés</string>
     <string name="alert_dialog_in_ecm_call">A választott művelet nem érhető el segélyhívás során.</string>
@@ -44,15 +42,12 @@
     <string name="badPuk2">A megadott PUK2 kód helytelen. Kérjük, próbálja újra.</string>
     <string name="bf_news_settings">Üzleti és pénzügyi hírek</string>
     <string name="call_forwarding_settings">Hívásátirányítás beállításai</string>
-    <string name="call_reject_list_add">HOZZÁADÁS</string>
     <string name="call_lost">Call has been lost.</string>
     <string name="call_number">To:</string>
     <string name="call_settings">Hívásbeállítások</string>
     <string name="caller_manage_header">Konferenciahívás: %s</string>
     <string name="callFailed_cb_enabled">Nem kezdeményezhet hívásokat, amíg a hívásletiltás be van kapcsolva.</string>
-    <string name="callFailed_cdma_notEmergency">Csak segélyhívás lehetséges.</string>
     <string name="callFailed_dialToDial">DIAL request modified to DIAL with different number.</string>
-    <string name="callFailed_cdma_reorder">CDMA: újrarendezés.</string>
     <string name="callFailed_congestion">A hálózat túlterhelt</string>
     <string name="callFailed_dsac_restricted_emergency">A segélyhívásokat korlátozza a hozzáférésvezérlés.</string>
     <string name="callFailed_dsac_restricted_normal">A normál hívásokat korlátozza a hozzáférésvezérlés.</string>
@@ -67,7 +62,6 @@
     <string name="callFailed_powerOff">Rádió kikapcsolva</string>
     <string name="callFailed_server_error">Szerverhiba. Kérjük, próbálkozzon újra.</string>
     <string name="callFailed_server_unreachable">A szerver nem érhető el</string>
-    <string name="callFailed_simError_slotNumber">Nincs SIM, vagy SIM hiba a(z) %dnyílásban</string>
     <string name="card_title_call_ended">A hívás befejeződött</string>
     <string name="card_title_conf_call">Konferenciahívás</string>
     <string name="card_title_dialing">Tárcsázás</string>
@@ -107,8 +101,6 @@
     <string name="ContactScreen">Add/Edit SIM Contact</string>
     <string name="contactUpdateFailed">Failed to update contact in SIM !!!</string>
     <string name="contactUpdateSuccess">Succesfully updated contact in SIM</string>
-    <string name="corporate_unlock_failed">SIM Corporate unlock request unsuccessful.</string>
-    <string name="corporate_unlock_success">SIM Corporate unlock successful.</string>
     <string name="count_down">Seconds:</string>
     <string name="cursorError">Cursor is not having proper data !!!</string>
     <string name="data_enable_summary">Adathozzáférés engedélyezése mobilhálózatokon</string>
@@ -151,7 +143,6 @@
     <string name="disable">Letiltás</string>
     <string name="display_name_summary">&lt;Ugyanaz, mint a felhasználónév></string>
     <string name="display_name_title">Megjelenített név</string>
-    <string name="dm_lock">DM lezárva</string>
     <string name="domain_address_title">Szerver</string>
     <string name="doneButton">Kész</string>
     <string name="dtmf_tone_enable_title">Tárcsázó érintési hangjai</string>
@@ -205,7 +196,7 @@
     <string name="exception_error">Network or SIM card error.</string>
     <string name="exportAllcontatsFailed">Failed to export all contacts to SIM !!!</string>
     <string name="exportAllcontatsSuccess">Succesfully exported all contacts to SIM</string>
-   <string name="fake_phone_activity_infoText_text">Bejövő telefonszám</string>
+    <string name="fake_phone_activity_infoText_text">Bejövő telefonszám</string>
     <string name="fake_phone_activity_placeCall_text">Hamis bejövő hívás</string>
     <string name="fdn_activation">FDN aktiválása</string>
     <string name="fdn_check_failure">Telefonja alkalmazásának Fix hívószámok beállítása be van kapcsolva. Ennek eredményeként bizonyos hívásfunkciók nem működnek.</string>
@@ -303,7 +294,6 @@
     <string name="national_enable">Belföldi hírek engedélyezve</string>
     <string name="network_manage_settings">Network Settings</string>
     <string name="network_message">Hálózati üzenet</string>
-    <string name="network_query_error">Error while searching for networks.</string>
     <string name="network_query_error">Hiba történt a hálózatok keresése közben.</string>
     <string name="networks">Mobilszolgáltatók</string>
     <string name="new_cards_available">New card available. Please configure subscriptions.</string>
@@ -401,8 +391,6 @@
     <string name="preference_category_ringtone">Csengőhang</string>
     <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Preferred network mode: Global</string>
     <string name="preferred_network_mode_cdma_evdo_summary">Preferred network mode: CDMA / EvDo</string>
-    <string name="preferred_network_mode_cdma_only_summary">Preferred network mode: CDMA only</string>  
-    <string name="preferred_network_mode_cdma_evdo_summary">Preferált hálózati mód: CDMA / EvDo</string>
     <string name="preferred_network_mode_cdma_only_summary">Preferált hálózati mód: csak CDMA</string>
     <string name="preferred_network_mode_cdma_summary">Preferált hálózati mód: CDMA</string>
     <string name="preferred_network_mode_dialogtitle">Preferált hálózati mód</string>
@@ -410,8 +398,6 @@
     <string name="preferred_network_mode_gsm_only_summary">Preferált hálózati mód: csak GSM</string>
     <string name="preferred_network_mode_gsm_wcdma_summary">Preferált hálózati mód: GSM/WCDMA</string>
     <string name="preferred_network_mode_lte_cdma_summary">Preferált hálózati mód: LTE/CDMA</string>
-    <string name="preferred_network_mode_scdma_only_summary">Preferált hálózati mód: csak TD-SCDMA</string>
-    <string name="preferred_network_mode_scdma_perf_summary">Preferált hálózati mód: csak TD-SCDMA</string>
     <string name="preferred_network_mode_summary">A hálózati üzemmód megváltoztatása</string>
     <string name="preferred_network_mode_title">Hálózati mód</string>
     <string name="preferred_network_mode_wcdma_only_summary">Preferált hálózati mód: csak WCDMA</string>
@@ -423,7 +409,6 @@
     <string name="proxy_address_title">Kimenő proxy címe</string>
     <string name="prompt">Prompt</string>
     <string name="pstn_phone">Mobiltelefonos hívás</string>
-    <string name="puk_length_indicate">(8 számjegy)</string>
     <string name="puk_requested">A jelszó helytelen, a SIM-kártya zárolásra került. Adja meg a PUK2-kódot.</string>
     <string name="puk_unlocked">SIM-kártyája letiltása megszűnt. Feloldás folyamatban...</string>
     <string name="puk2_requested">A jelszó helytelen, a SIM kártya zárolásra került. Adja meg a PUK2 kódot.</string>
@@ -481,14 +466,7 @@
     <string name="sendSms">SMS küldése</string>
     <string name="set_primary_summary">A kimenő hívásokhoz használatos</string>
     <string name="set_primary_title">Beállítás elsődleges fiókként</string>
-    <string name="setting_for_3G_service">3G szolgáltatás</string>
     <string name="settings_label">Hálózati beállítások</string>
-    <string name="show_always_title">Ne értesítsen újra</string>
-    <string name="sim_manage_call_via">Hívás ezen:</string>
-    <string name="sim_manage_sipcall">Internethívás</string>
-    <string name="sim_manage_suggested">Javasolt</string>  
-    <string name="sim_permanently_locked">Több mint 10-szer adta meg hibásan a PUK2-kódot. Ezzel a SIM-kártya véglegesen blokkolásra kerül</string>
-    <string name="sim_toolkit">SIM eszköztár</string> 
     <string name="sim_ndp_dismiss_text">Elvetés</string>
     <string name="sim_ndp_unlock_text">Feloldás</string>
     <string name="simContacts_airplaneMode">A névjegyek SIM kártyáról való importálásához először kapcsolja ki a repülőgépes üzemmódot.</string>
@@ -498,7 +476,6 @@
     <string name="sip_call_options_entry_1">Minden hívásnál, amikor nincs elérhető adathálózat</string>
     <string name="sip_call_options_entry_2">Csak internetes hívásoknál</string>
     <string name="sip_call_options_entry_3">Mindig rákérdez</string>
-    <string name="sip_call_options_title_single_sim">Internethívás opciók</string>
     <string name="sip_call_options_wifi_only_entry_1">Minden hívásnál</string>
     <string name="sip_call_options_wifi_only_title">Internetes hívás használata (csak Wi-Fi esetén)</string>
     <string name="sip_edit_new_title">SIP-fiók részletei</string>
