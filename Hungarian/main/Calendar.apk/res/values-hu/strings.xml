@@ -1,25 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string name="valid_date_range">Az érvényes dátum 1970. január és 2036. december közötti</string>
-    <string name="shareEvent">Esemény megosztása</string>
-    <string name="share_label">Megosztás</string>
-    <string name="loading_failed">Sikertelen betöltés.</string>
-    <string name="operation_failed">Sikertelen művelet. Kérjük, ellenőrizze, hogy a \"Naptár tároló\" le van-e állítva.</string>
-    <string name="clear_events">Események törlése</string>
-    <string name="select_clear_calendars_title">Fiók kijelölése</string>
-    <string name="clear_all_selected_events_title">A kijelölt fiók összes eseménye törlésre kerül.</string>
-    <string name="delete_completed">Törlés kész.</string>
-    <string name="delete_certain">OK</string>
-    <string name="wait_deleting_tip">Kérjük, várjon a törlés közben...</string>
-    <string name="attendees_invalid_tip">Egyes résztvevők érvénytelenek.</string>
-    <string name="unread_reminders">%d nem olvasott emlékeztető</string>
-    <string name="click_to_view_all">Kattintson az összes megtekintéshez</string>
-    <string name="search_setting_description">Események a naptárban</string>
-    <string name="quick_response_error_already_exist">Létező szöveg</string>
-    <string name="quick_response_error_null">Nem lehet üres</string>
-    <string name="preferences_alerts_vibrateWhen_summary">Rezgés esemény emlékeztetőnél</string>
-    <string name="go_to">Ugrás</string>
-    <string name="search_hint">Naptárkeresés</string>
+<resources>
     <string name="app_label">Naptár</string>
     <string name="what_label">Cím</string>
     <string name="where_label">Hol</string>
@@ -91,9 +71,8 @@
     <string name="response_maybe">Lehet</string>
     <string name="response_no">Nem</string>
     <string name="email_guests_label">E-mail küldése a résztvevőknek</string>
-    <string name="email_organizer_label">E-mail a szervezőnek</string>
     <string name="email_picker_label">E-mail a következővel:</string>
-    <string name="event_not_found">Az esemény nem található.</string>
+    
     <string name="quick_response_settings">Gyors válaszok</string>
     <string name="quick_response_settings_summary">Válaszok szerkesztése vendég e-mailek küldésekor</string>
     <string name="quick_response_settings_title">Gyors válaszok szerkesztése</string>
@@ -183,7 +162,6 @@
     <string name="accessibility_reminder_privacy">Adatvédelem</string>
     <string name="acessibility_cal_notification">Naptárértesítés</string>
     <string name="acessibility_snooze_notification">Szundi funkció -- értesítés</string>
-    <string name="accessibility_email_notification">E-mail küldése a résztvevőknek</string>
     <string name="day_view_new_event_hint">+ Új esemény</string>
     <string name="template_announce_item_index">%2$s/%1$s esemény.</string>
     <string name="acessibility_selected_marker_description">Kiválasztott esemény</string>

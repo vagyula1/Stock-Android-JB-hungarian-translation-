@@ -42,6 +42,7 @@
     <string name="aud_output_mode">Audio kimenet</string>
     <string name="sel_audio_output">Válasszon audio kimenetet</string>
     <string name="auto_select_af">Alternatív frekvencia</string>
+    <string name="revert_to_fac">Gyári beállítások visszaállítása</string>
     <string name="auto_select_af_summary">Alternatív/ sávkövető frekvenciaváltás ha túl gyenge a jel</string>
     <string name="settings_revert_confirm_msg">Törölni fog minden beállítást és állomást.</string>
     <string name="settings_revert_defaults_title">Gyári beállítás visszaállítása</string>
@@ -117,10 +118,5 @@
     <string name="status_recording_time">(rögzítés: %s)</string>
     <string name="record_file_format">%1$s_%2$s</string>
     <string name="record_file_location_format">Kattintson a %s fájl meghallgatásához</string>
-    <string name="record_sucess">Rögzítve</string>
-    <string name="record_fail">A rögzítés nem sikerült</string>
     <string name="record_error_unknown">Rögzítés megállítva. Ismeretlen hiba a felvétel közben.</string>
-    
-    <string name="revert_to_fac">Gyári beállítások visszaállítása</string>
-    <string name="settings_revert_confirm_title">Gyári adatok visszaállításának megerősítése</string>
 </resources>

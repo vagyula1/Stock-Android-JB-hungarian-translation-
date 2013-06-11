@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="calendar_storage">Naptár tárolása</string>
     <string name="upgrade_msg">A Naptár adatbázisának frissítése</string>
     <string name="calendar_default_name">Alapértelmezett</string>

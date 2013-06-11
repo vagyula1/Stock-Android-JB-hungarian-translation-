@@ -173,8 +173,7 @@
     <string name="status_bar_clear_all_button">Törlés</string>
     <string name="status_bar_date_format">yyyy.MMMM d.</string>
     <string name="status_bar_do_not_disturb_button">Ne zavarjanak</string>
-    <string name="status_bar_input_method_settings_configure_input_methods">Beviteli módok konfigurálása</string>
-   
+    <string name="status_bar_input_method_settings_configure_input_methods">Beviteli módok konfigurálása</string>   
     <string name="status_bar_latest_events_title">Értesítések</string>
     <string name="status_bar_network_flow_today">Ma:%1$s</string>
     <string name="status_bar_no_notifications_title">Nincs értesítés</string>
@@ -214,6 +213,7 @@
     <string name="status_bar_toggle_sync">Szink.</string>
     <string name="status_bar_toggle_torch">Lámpa</string>
     <string name="status_bar_toggle_vibrate">Rezgés</string> 
+    <string name="status_bar_toggle_wifi">WiFi</string>
     <string name="status_bar_use_physical_keyboard">Valódi bill. használata</string>
     <string name="tab_notifications_lable">Értesítések</string>
     <string name="tab_toggles_lable">Kapcsolók</string>

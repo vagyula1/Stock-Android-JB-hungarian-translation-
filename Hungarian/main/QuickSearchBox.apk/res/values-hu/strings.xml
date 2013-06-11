@@ -6,7 +6,7 @@
     <string name="remove_from_history_failed">Az elem nem távolítható el az előzmények közül</string>
     <string name="corpus_selection_heading">Keresés</string>
     <string name="corpus_label_global">Összes</string>
-    <string name="corpus_label_web">Web</string>
+
     <string name="corpus_description_web">Webes keresés, könyvjelzők és böngészési előzmények</string>
     <string name="corpus_label_apps">Alkalmazás</string>
     <string name="corpus_description_apps">Telepített alkalmazások neve</string>
@@ -33,10 +33,4 @@
     <string name="voice_search_hint_title">Mondja ki ezt:</string>
     <string name="voice_search_hint_quotation_start" />
     <string name="voice_search_hint_quotation_end" />
-    <string name="pref_content_search_engine">Keresőmotor választása</string>
-    <string name="pref_content_search_engine_consistency">Keresőmotor konzisztencia</string>
-    <string name="search_suggestion_settings">Webes keresés javaslatok</string>
-    <string name="search_engine_settings">Keresőmotor</string>
-    <string name="pref_search_engine_unify">Keresőmotor egységesítése</string>
-    <string name="pref_search_engine_unify_summary">A keresőmotor módosítás alkalmazása a böngészőre</string>
 </resources>

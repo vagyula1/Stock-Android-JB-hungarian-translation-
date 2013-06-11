@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="app_name">Csomagtelepítő</string>
-    <string name="next">Tovább</string>
     <string name="install">Telepítés</string>
     <string name="done">Kész</string>
     <string name="security_settings_desc">Alkalmazás engedélyezése a következőkre:</string>
@@ -13,8 +12,6 @@
     <string name="install_confirm_question_no_perms">Telepíti ezt az alkalmazást? Az alkalmazás nem igényel különleges hozzáférést.</string>
     <string name="install_confirm_question_update">Telepít egy frissítést ehhez a meglévő alkalmazáshoz? A meglévő adatai nem vesznek el. A frissített alkalmazás a következőkhöz kap hozzáférést:</string>
     <string name="install_confirm_question_update_system">Telepít egy frissítést ehhez a beépített alkalmazáshoz? A meglévő adatai nem vesznek el. A frissített alkalmazás a következőkhöz kap hozzáférést:</string>
-    <string name="install_confirm_question_update_no_perms">Telepít egy frissítést ehhez a meglévő alkalmazáshoz? A meglévő adatai nem vesznek el. A frissítés nem igényel különleges hozzáférést.</string>
-    <string name="install_confirm_question_update_system_no_perms">Telepít egy frissítést ehhez a beépített alkalmazáshoz? A meglévő adatai nem vesznek el. A frissítés nem igényel különleges hozzáférést.</string>
     <string name="install_failed">Az alkalmazás nincs telepítve.</string>
     <string name="install_failed_invalid_apk">A csomag hibás.</string>
     <string name="install_failed_inconsistent_certificates">Ütköző aláírású, azonos nevű csomag már telepítve.</string>
@@ -63,6 +60,5 @@ Minden korábbi felhasználói adatot ment a rendszer."</string>
     <string name="newPerms">Új</string>
     <string name="allPerms">Mind</string>
     <string name="privacyPerms">Adatvédelem</string>
-    <string name="devicePerms">Eszközhozzáférés</string>
     <string name="no_new_perms">A frissítés nem igényel új engedélyeket.</string>
 </resources>

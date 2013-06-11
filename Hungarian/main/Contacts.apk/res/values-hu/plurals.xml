@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <plurals name="searchFoundCalllogs">
-        <item quantity="other">%d hívásnapló</item>
-        <item quantity="one">1 hívásnapló</item>
-    </plurals>
+<resources>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d névjegy telefonszámmal</item>
         <item quantity="one">1 névjegy telefonszámmal</item>

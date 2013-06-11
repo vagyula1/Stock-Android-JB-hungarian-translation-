@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string-array name="tips">
         <item>"Az összes alkalmazás megtekintése.
  Érintse meg az Indító ikont. @drawable/all_apps"</item>

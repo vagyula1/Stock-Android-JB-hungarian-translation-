@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string name="download_title">Letöltések</string>
-    <string name="cancel">Mégse</string>
-    <string name="ok">OK</string>
-    <string name="download_file_already_exist">Ilyen fájl már létezik. Felülírja?</string>
-    <string name="notification_download_complete_op01">A fájl mentési helye:</string>
+<resources>
     <string name="app_label">Letöltéskezelő</string>
+    <string name="notification_download_complete_op01">A fájl mentési helye:</string>
+    
     <string name="permlab_downloadManager">Hozzáférés a letöltéskezelőhöz.</string>
     <string name="permdesc_downloadManager">Lehetővé teszi az alkalmazás számára a letöltéskezelő elérését fájlok letöltéséhez. A rosszindulatú alkalmazások kihasználhatják ezt a letöltések megzavarására és személyes adatok elérésére.</string>
     <string name="permlab_downloadManagerAdvanced">Speciális letöltéskezelő-funkciók.</string>

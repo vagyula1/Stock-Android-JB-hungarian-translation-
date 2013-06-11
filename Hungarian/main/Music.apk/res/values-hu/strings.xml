@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string name="search_empty">Nincs találat.</string>
-    <string name="audiofocus_request_failed_message">Zene lejátszása hívás közben nem lehetséges.</string>
-    <string name="delete_progress_title">Dalok törlése</string>
-    <string name="delete_progress_message">Dalok törlése folyik. Kérjük, várjon...</string>
-    <string name="menu_search">Keresés</string>
-    <string name="fail_to_start_stream">Nem sikerült lejátszani a kért adatfolyamot.</string>
-    <string name="music_fm_transmiter">FM-adó</string>
-    <string name="effects_list_title">Hangeffektek</string>
-    <string name="usb_in_using">A lejátszási lista bekapcsolt USB-háttértár mellett nem érhető el.</string>
-    <string name="shuffle_menu_item_desc">Véletlen sorrend</string>
-    <string name="repeat_menu_item_desc">Ismétlés</string>
-    <string name="delete_track_failed">Sikertelen törlés.</string>
-    <string name="no_music_title">Nincs zene.</string>
-    <string name="voice_command_indicator_ticker">A zenék lejátszásának szabályozásához a következőket mondhatja: %1$s és %2$s.</string>
-    <string name="voice_command_indicator_content_title">Hangvezérlés</string>
-    <string name="voice_command_indicator_content_text">Hangvezérlés engedélyezve zenéhez</string>
+<resources>
     <string name="onesong">1 dal</string>
+
     <string name="goto_start">Könyvtár</string>
     <string name="party_shuffle">Keverés bulihoz</string>
     <string name="party_shuffle_off">Véletlensz. lejátsz. ki</string>
@@ -24,8 +9,11 @@
     <string name="shuffle_all">Mind véletlen sorrend</string>
     <string name="play_all">Összes lejátszása</string>
     <string name="delete_artist_desc">Megtörténik a(z) %s előadó összes dalának törlése.</string>
+    <string name="delete_artist_desc_nosdcard">Véglegesen törli %s összes dalát az USB-háttértárról?</string>
     <string name="delete_album_desc">Megtörténik a teljes album \"%s\" törlése.</string>
+    <string name="delete_album_desc_nosdcard">Véglegesen törli a teljes \"%s\" albumot az USB-háttértárról?</string>
     <string name="delete_song_desc">Megtörténik a(z) \"%s\" dal törlése.</string>
+    <string name="delete_song_desc_nosdcard">A(z) \"%s\" végleges törlése az USB-háttértárról?</string>
     <string name="delete_confirm_button_text">OK</string>
     <string name="scanning">Az SD-kártya beolvasása...</string>
     <string name="scanning_nosdcard">USB-tároló keresése...</string>
@@ -57,10 +45,15 @@
     <string name="sdcard_missing_title">Hiányzó SD-kártya</string>
     <string name="sdcard_missing_message">Nincs SD-kártya a telefonban.</string>
     <string name="sdcard_missing_message_nosdcard">Telefonjának nincs USB-háttértára.</string>
+    <string name="sdcard_missing_title_nosdcard">Nem található USB-tár</string>
     <string name="sdcard_busy_title">Az SD-kártya nem érhető el</string>
+    <string name="sdcard_busy_title_nosdcard">Az USB-tár nem érhető el</string>
     <string name="sdcard_busy_message">A médiatároló foglalt.</string>
+    <string name="sdcard_busy_message_nosdcard">Az USB-háttértár használatban van.</string>
     <string name="sdcard_error_title">SD-kártya hiba</string>
+    <string name="sdcard_error_title_nosdcard">USB-tároló hiba</string>
     <string name="sdcard_error_message">Hiba történt az SD-kártyán.</string>
+    <string name="sdcard_error_message_nosdcard">Hiba történt az USB-tárolón.</string>
     <string name="unknown_artist_name">Ismeretlen előadó</string>
     <string name="unknown_album_name">Ismeretlen album</string>
     <string name="shuffle_on_notif">A keverés be van kapcsolva.</string>
@@ -109,15 +102,8 @@
     <string name="search_hint">Zene keresése</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="widget_initial_text">Érintse meg zene kiválasztásához.</string>
-    <string name="delete_artist_desc_nosdcard">Véglegesen törli %s összes dalát az USB-háttértárról?</string>
-    <string name="delete_album_desc_nosdcard">Véglegesen törli a teljes \"%s\" albumot az USB-háttértárról?</string>
-    <string name="delete_song_desc_nosdcard">A(z) \"%s\" végleges törlése az USB-háttértárról?</string>
-    <string name="sdcard_missing_title_nosdcard">Nem található USB-tár</string>
-    <string name="sdcard_busy_title_nosdcard">Az USB-tár nem érhető el</string>
-    <string name="sdcard_busy_message_nosdcard">Az USB-háttértár használatban van.</string>
-    <string name="sdcard_error_title_nosdcard">USB-tároló hiba</string>
-    <string name="sdcard_error_message_nosdcard">Hiba történt az USB-tárolón.</string>
     <string name="effectspanel">Hangeffektek</string>
+    
     <string name="notification_artist_album">"%2$s
 %1$s"</string>
 </resources>

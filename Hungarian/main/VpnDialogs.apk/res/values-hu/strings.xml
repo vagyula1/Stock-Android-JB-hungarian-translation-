@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="prompt">A(z) %s megpróbál létrehozni egy VPN-kapcsolatot.</string>
     <string name="warning">A folytatással engedélyt ad az alkalmazásnak a hálózati adatforgalom elfogására. <b>Csak akkor fogadja el, ha megbízik az alkalmazásban. </b>Ellenkező esetben fennállhat annak a kockázata, hogy egy rosszindulatú program feltöri adatait.</string>
     <string name="accept">Bízom ebben az alkalmazásban.</string>

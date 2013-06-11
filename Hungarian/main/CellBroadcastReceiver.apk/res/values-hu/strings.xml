@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="app_label">Cellán belüli adások</string>
     <string name="sms_cb_settings">Cellán belüli adások beállításai</string>
     <string name="button_dismiss">OK</string>
@@ -81,8 +81,4 @@
     <string name="cmas_certainty_likely">Valószínű</string>
     <string name="notification_multiple">%s olvasatlan értesítés.</string>
     <string name="notification_multiple_title">Új értesítések</string>
-    <string name="sim_selected_dialog_title">SIM választása</string>
-    <string name="cell_broadcast">Híváskörzet információ</string>
-    <string name="cell_broadcast_title">Híváskörzet beállítások</string>
-    <string name="cell_broadcast_settings">SIM-kártya híváskörzet beállítások</string>
 </resources>
