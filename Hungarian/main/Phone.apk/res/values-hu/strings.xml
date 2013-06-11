@@ -69,6 +69,7 @@
     <string name="card_title_in_call">Hívásban</string>
     <string name="card_title_incoming_call">Bejövő hívás</string>
     <string name="card_title_my_phone_number">A számom: %s</string>
+	<string name="card_title_MOcall_forwarding">Kimenő hívásátirányítás</string>
     <string name="card_title_on_hold">Tartásban</string>
     <string name="card_title_redialing">Újrapróbálkozás</string>
     <string name="cb_sms_settings">Cellán belüli üzenetszórás beállításai</string>

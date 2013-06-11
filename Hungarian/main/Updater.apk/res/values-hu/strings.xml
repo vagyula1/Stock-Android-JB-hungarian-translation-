@@ -59,7 +59,7 @@
   <string name="new_updates_found_title">Új frissítés elérhető!</string>
   <string name="no_proper_updates">Nem találhatók frissítések</string>
   <string name="no_updatecheck_executed">A frissítések ellenőrzése nem sikerült</string>
-  <string name="no_updates_found">Frissítések nem találhatók</string>
+  <string name="no_updates_found">Nincs elérhető frissítés</string>
   <string name="page_error">A MIUI szerverhez való csatlakozás sikertelen, ellenőrizze a hálózati kapcsolatot</string>
   <string name="page_error_title">Oldal hozzáférési hiba</string>
   <string name="page_reload">Újratöltés</string>

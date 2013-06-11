@@ -10,7 +10,7 @@
     <string name="menu_calibrate">Kalibrálás</string>
     <string name="dialog_title">Mégsem</string>  
     <string name="dialog_content">Az iránytű kalibálása mégnem fejeződött be,ez pontatlanságokat okozhat. Mégis leállítja？</string>
-    <string name="calibrate_success">Kalibrálás befejezvee</string>
+    <string name="calibrate_success">Kalibrálás befejezve</string>
     <string name="toast_accuracy_low">Pontatalan, Nyomja meg a menü gombot az iránytű kalibrációjához.</string>
   
 </resources>

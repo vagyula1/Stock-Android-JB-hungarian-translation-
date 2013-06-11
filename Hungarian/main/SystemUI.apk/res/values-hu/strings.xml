@@ -206,7 +206,7 @@
     <string name="status_bar_toggle_screen_button">Képernyőgomb</string>
     <string name="status_bar_toggle_screenshot">Képernyőkép</string>
     <string name="status_bar_toggle_shutdown">Kikapcsolás</string>
-    <string name="status_bar_toggle_sync">Szink.</string>
+    <string name="status_bar_toggle_sync">Szinkr.</string>
     <string name="status_bar_toggle_torch">Lámpa</string>
     <string name="status_bar_toggle_vibrate">Rezgés</string> 
     <string name="status_bar_toggle_wifi">WiFi</string>
