@@ -33,7 +33,6 @@
     <string name="cannot_get_details">Nem lehet lekérni a részleteket.</string>
     <string name="cannot_play_audio">A hanganyag nem játszható le.</string>
     <string name="cannot_save_message">Nem lehet menteni az üzenetet.</string>
-    <string name="cannot_send_message_reason_no_content">Nincs küldhető tartalom</string>
     <string name="cannot_send_message">Ez az üzenet nem küldhető el</string>
     <string name="change_duration_activity">Időtartam módosítása</string>
     <string name="class_0_message_activity">0. osztályú üzenet</string>
@@ -205,10 +204,8 @@
     <string name="priority_label">"Prioritás: "</string>
     <string name="priority_low">Alacsony</string>
     <string name="priority_normal">Normál</string>
-    <string name="quick_text_editor">Gyorsszöveg szerkesztése</string>
     <string name="rate_limit_surpassed">Megerősítés</string>
     <string name="progress_mms">Üzenetek: MMS folyamatban...</string>
-    <string name="received_header">Érkezett:</string>
     <string name="received_label">"Kézbesítve: "</string>
     <string name="recipient_label">"Címzett: "</string>
     <string name="refreshing">Frissítés...</string>

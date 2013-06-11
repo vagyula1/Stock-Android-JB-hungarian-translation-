@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">Kész</string>
-    <string name="accessing_db_fail">Nem sikerült elérni az adatbázist.</string>
-    <string name="alert_delete_multiple">Megtörténik az elemek törlése</string>
-    <string name="alert_delete_single">Megtörténik az elem törlése</string>
     <string name="app_name">Hangrögzítő</string>
     <string name="audio_db_album_name">Hangfelvételek</string>
     <string name="audio_db_artist_name">Saját felvételek</string>
@@ -26,10 +23,6 @@
     <string name="min_available">%d perc elérhető</string>
     <string name="no_file">Nincs felvétel</string>
     <string name="open_file_explorer">Fájlkezelő megnyitása</string>
-    <string name="recording_mode">Felvétel üzemmód</string>
-    <string name="recording_mode_lecture">Előadás</string>
-    <string name="recording_mode_meeting">Találkozó</string>
-    <string name="recording_mode_nomal">Normál</string>
     <string name="recording_stopped">A rögzítés leállt</string>
     <string name="review_message">Üzenet visszahallgatása</string>
     <string name="sec_available">%d mp áll rendelkezésére</string>

@@ -118,9 +118,7 @@
     <string name="group_by">Csoportosítás</string>
     <string name="height">Magasság</string>
     <string name="help">Súgó</string>
-    <string name="hide_imagestate_panel">Állapot elrejtés</string>
     <string name="highlight">Kiemelt részek</string>
-    <string name="history">Előzmények</string>
     <string name="import_complete">Importálás befejezve</string>
     <string name="import_fail">Sikertelen importálás</string>
     <string name="Import">Importálás</string>
@@ -158,7 +156,6 @@
     <string name="pano_dialog_prepare_preview">Panoráma előkészítése</string>
     <string name="pano_dialog_title">Panoráma</string>
     <string name="pano_dialog_waiting_previous">Várakozás az előző panorámára</string>
-    <string name="pano_progress_text">Panorámakép megjelenítése</string>
     <string name="pano_review_saving_indication_str">Mentés...</string>
     <string name="pano_too_fast_prompt">Túl gyors</string>
     <string name="path">Elérési út</string>
@@ -229,7 +226,6 @@
     <string name="pref_camera_id_entry_back">Hátlapi</string>
     <string name="pref_camera_id_entry_front">Előlapi</string>
     <string name="pref_camera_id_title">Válasszon kamerát</string>
-
     <string name="pref_camera_iso_entry_isodeblur">ISO Auto(HJR)</string>
     <string name="pref_camera_iso_title">Select ISO</string>
     <string name="pref_camera_jpegquality_default">superfine</string>
@@ -335,7 +331,6 @@
     <string name="pref_camera_skinToneEnhancement_entry_disable">Disable</string>
     <string name="pref_camera_skinToneEnhancement_entry_enable">Enable</string>
     <string name="pref_camera_skinToneEnhancement_title">Skin Tone Enhancement</string>
-
     <string name="pref_camera_touchaec_default">touch-on</string>
     <string name="pref_camera_touchaec_entry_off">Ki</string>
     <string name="pref_camera_touchaec_entry_on">Be</string>
@@ -357,7 +352,6 @@
     <string name="pref_camera_videoencoder_entry_1">H263</string>
     <string name="pref_camera_videoencoder_entry_2">H264</string>
     <string name="pref_camera_videoencoder_title">Video Encoder</string>
-
     <string name="pref_camera_whitebalance_default">auto</string>
     <string name="pref_camera_whitebalance_entry_auto">Auto</string>
     <string name="pref_camera_whitebalance_entry_cloudy">Felhős</string>
@@ -433,7 +427,6 @@
     <string name="share_video_via">Videó megosztása itt:</string>
     <string name="share">Megosztás</string>
     <string name="sharpen">Élesítés</string>
-    <string name="sharpness">Élesség</string>
     <string name="show_all">Képek és videók</string>
     <string name="show_images_only">Csak képek</string>
     <string name="show_on_map">Mutassa a térképen</string>

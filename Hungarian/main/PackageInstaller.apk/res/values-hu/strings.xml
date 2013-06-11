@@ -47,7 +47,6 @@ Minden korábbi felhasználói adatot ment a rendszer."</string>
     <string name="uninstall_update_title">Frissítés eltávolítása</string>
     <string name="uninstall_activity_text">A(z) %1$s a következő alkalmazás része:</string>
     <string name="uninstall_application_text">Eltávolítja ezt az alkalmazást?</string>
-    <string name="uninstall_application_text_all_users">Szeretné eltávolítani ezt az alkalmazást <b>minden</b> felhasználónál? Az alkalmazást és adatait az eszköz <b>minden</b> felhasználójánál töröljük.</string>
     <string name="uninstall_update_text">Szeretné lecserélni az alkalmazást a gyári verzióra?</string>
     <string name="uninstalling">Eltávolítás...</string>
     <string name="uninstall_done">Az eltávolítás befejeződött.</string>
@@ -58,7 +57,6 @@ Minden korábbi felhasználói adatot ment a rendszer."</string>
     <string name="Parse_error_dlg_title">Szintaktikai elemzés hibája</string>
     <string name="Parse_error_dlg_text">Gond volt a csomag elemzésekor.</string>
     <string name="newPerms">Új</string>
-    <string name="allPerms">Mind</string>
     <string name="privacyPerms">Adatvédelem</string>
     <string name="no_new_perms">A frissítés nem igényel új engedélyeket.</string>
 </resources>

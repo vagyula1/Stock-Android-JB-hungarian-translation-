@@ -254,7 +254,7 @@
     <string name="invalidPuk2">Írja be a 8 jegyű PUK2-kódot.</string>
     <string name="label_available">Elérhető hálózatok</string>
     <string name="label_ndp">SIM hálózati függetlenítő PIN-kódja</string>   
-   <string name="label_puk2_code">Írja be a PUK2-kódot</string>  
+    <string name="label_puk2_code">Írja be a PUK2-kódot</string>  
     <string name="labelCallerId">Hívóazonosító</string>
     <string name="labelCDMAMore">CDMA-hívásbeállítások</string>
     <string name="labelCF">Hívásátirányítás</string>
@@ -465,8 +465,7 @@
     <string name="retail_directory_disable">Kiskereskedők címtára letiltva</string>
     <string name="retail_directory_enable">Kiskereskedők címtára engedélyezve</string>
     <string name="reverting_settings">Beállítások visszaállítása...</string>
-    <string name="ringtone_title">Telefon csengőhangja</string>
-  
+    <string name="ringtone_title">Telefon csengőhangja</string> 
     <string name="roaming_disable">Csatlakozás adatszolgáltatásokhoz barangolás során</string>
     <string name="roaming_enable">Csatlakozás adatszolgáltatásokhoz barangolás során</string>
     <string name="roaming_reenable_message">Megszakadt az adatkapcsolat, mert elhagyta az otthoni hálózatot, és az adatbarangolás nincs bekapcsolva.</string>
@@ -487,21 +486,15 @@
     <string name="show_always_title">Ne értesítsen újra</string>
     <string name="sim_manage_call_via">Hívás ezen:</string>
     <string name="sim_manage_sipcall">Internethívás</string>
-    <string name="sim_manage_suggested">Javasolt</string>
-   
-    
+    <string name="sim_manage_suggested">Javasolt</string>  
     <string name="sim_permanently_locked">Több mint 10-szer adta meg hibásan a PUK2-kódot. Ezzel a SIM-kártya véglegesen blokkolásra kerül</string>
-    <string name="sim_toolkit">SIM eszköztár</string>
-    
-   
-    string name="sim_ndp_dismiss_text">Elvetés</string>
+    <string name="sim_toolkit">SIM eszköztár</string> 
+    <string name="sim_ndp_dismiss_text">Elvetés</string>
     <string name="sim_ndp_unlock_text">Feloldás</string>
     <string name="simContacts_airplaneMode">A névjegyek SIM kártyáról való importálásához először kapcsolja ki a repülőgépes üzemmódot.</string>
     <string name="simContacts_empty">Nincsenek névjegyek a SIM-kártyán.</string>
     <string name="simContacts_emptyLoading">Beolvasás a SIM-kártyáról...</string>
     <string name="simContacts_title">Válassza ki az importálni kívánt névjegyeket</string>
-
- 
     <string name="sip_call_options_entry_1">Minden hívásnál, amikor nincs elérhető adathálózat</string>
     <string name="sip_call_options_entry_2">Csak internetes hívásoknál</string>
     <string name="sip_call_options_entry_3">Mindig rákérdez</string>
@@ -576,7 +569,6 @@
     <string name="vm_changed">A postafiók száma módosítva.</string>
     <string name="voice_privacy_summary">Fokozott adatvédelmi mód engedélyezése</string>
     <string name="voice_privacy">Adatvédelem</string>
-
     <string name="voicemail_abbreviated">HP:</string>
     <string name="voicemail_default">Saját szolgáltatóm</string>
     <string name="voicemail_notification_ringtone_title">Csengőhang</string>
@@ -598,5 +590,4 @@
     <string name="xdivert_setting">X-Divert beállítás</string>
     <string name="xdivert_status">X-Divert állapota</string>
     <string name="xdivert_summary">CFNRc beállítások</string>
-
 </resources>

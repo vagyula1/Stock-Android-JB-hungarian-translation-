@@ -2,10 +2,8 @@
 <resources>
     <string name="about_settings">A telefonról</string>
     <string name="about_settings_summary">Jogi információk, állapot, szoftververzió megtekintése</string>
-    <string name="ac_set_apps_title">Alkalmazások védelme</string>
     <string name="accelerometer_summary_off">Tájolás automatikus váltása a telefon elfordításakor</string>
     <string name="accelerometer_summary_on">Tájolás automatikus váltása a telefon elfordításakor</string>
-    <string name="access_control_password_title">Jelszó bekapcsolása</string>
     <string name="accessibility_long_press_timeout_title">Érintés és tartási késleltetés</string>
     <string name="accessibility_menu_item_settings">Beállítások</string>
     <string name="accessibility_no_services_installed">Nincs telepített szolgáltatás</string>
@@ -150,7 +148,6 @@
     <string name="battery_history_hours">%1$d ó %2$d p %3$d mp</string>
     <string name="battery_history_minutes">%1$d p %2$d mp</string>
     <string name="battery_history_seconds">%1$d mp</string>
-    <string name="battery_indicator_style">Akkumulátor jelzés stílusa</string>
     <string name="battery_info_awake_battery">Ébrenléti idő akkumulátoron:</string>
     <string name="battery_info_awake_plugged">Ébrenléti idő töltés közben:</string>
     <string name="battery_info_health_cold">Közömbös</string>
@@ -229,7 +226,6 @@
     <string name="bluetooth_connection_dialog_text">Szeretne csatlakozni a következő eszközhöz: \"%1$s\"?</string>
     <string name="bluetooth_connection_notif_message">Érintse meg a(z) \"%1$s\" eszközhöz való csatlakozáshoz.</string>
     <string name="bluetooth_connection_permission_request">Bluetooth-kapcsolat kérése</string>
-    <string name="bluetooth_default_name">MIUI telefon</string>
     <string name="bluetooth_device">Névtelen Bluetooth eszköz</string>
     <string name="bluetooth_device_advanced_enable_opp_title">Beérkező fájlátvitelek engedélyezése</string>
     <string name="bluetooth_device_advanced_online_mode_summary">Csatlakozás Bluetooth-eszközhöz</string>
@@ -689,7 +685,6 @@
     <string name="large_font">Nagy</string>
     <string name="last_synced">Utolsó szinkronizálás %1$s</string>
     <string name="launch_count_label">Számláló</string>
-    <string name="led_frequence_summary">LED villogások közti szünet beállítása</string>
     <string name="legal_information">Jogi információk</string>
     <string name="license_title">Licenc</string>
     <string name="link_speed_label">Kapcsolat sebessége:</string>
@@ -831,8 +826,6 @@
     <string name="multi_sim_settings_summary">Set up Multi Sim Settings for Voice, Data and SMS</string>
     <string name="multi_sim_settings_title">Multi SIM Settings</string>
     <string name="musicfx_title">Zenei hatások</string>
-    <string name="nearby_wifi">Válasszon Wi-Fi hálózatot</string>
-    <string name="network_detail">%s hálózat részletei</string>
     <string name="network_settings_title">Mobilhálózatok</string>
     <string name="network_state_label">Hálózat állapota:</string>
     <string name="networkid_label">Hálózati azonosító:</string>
@@ -846,7 +839,6 @@
     <string name="no_application">Semmi</string>
     <string name="no_applications">Nincsenek alkalmazások.</string>
     <string name="no_device_admins">Nincs elérhető eszközkezelő</string>
-    <string name="no_media_button_receiver">Nincs</string>
     <string name="no_running_services">Semmi sem fut.</string>
     <string name="no_services">Nem aktív</string>
     <string name="normal_date_format">Normál (%s)</string>
@@ -883,7 +875,6 @@
     <string name="power_usage_summary">Mi használta az akkumulátort</string>
     <string name="power_usage_summary_title">Akkumulátor</string>
     <string name="power_wifi">WIFI</string>
-    <string name="privacy_relative">Adatvédelmi kapcsolat</string>
     <string name="privacy_settings">Mentés és visszaállítás</string>
     <string name="privacy_settings_title">Mentés és visszaállítás</string>
     <string name="process_kernel_label">Android OS</string>
@@ -1286,7 +1277,6 @@
     <string name="unlock_set_unlock_pattern_title">Minta</string>
     <string name="unlock_set_unlock_pin_summary">Közepes/magas védelem</string>
     <string name="unlock_set_unlock_pin_title">PIN-kód</string>
-    <string name="unlock_set_unlock_summary">Engedélyezze a képernyővédelmet a jelszavas védelem beállításához</string>
     <string name="unmount_inform_text">Az USB-tár leválasztásra kerül.</string>
     <string name="untitled_apn">Névtelen</string>
     <string name="usage_stats_label">Használati statisztikák</string>
@@ -1399,7 +1389,6 @@
     <string name="vpn_save_login">Számlainformáció mentése</string>
     <string name="vpn_search_domains">DNS keresési domainek</string>
     <string name="vpn_server">Szerver címe</string>
-    <string name="vpn_settings_password">VPN jelszó beállítások</string>
     <string name="vpn_settings_title">VPN</string>
     <string name="vpn_show_options">speciális lehetőségek megjelenítése</string>
     <string name="vpn_type">Típus</string>

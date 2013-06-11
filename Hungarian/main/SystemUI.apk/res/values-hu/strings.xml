@@ -175,14 +175,10 @@
     <string name="status_bar_do_not_disturb_button">Ne zavarjanak</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Beviteli módok konfigurálása</string>   
     <string name="status_bar_latest_events_title">Értesítések</string>
-    <string name="status_bar_network_flow_today">Ma:%1$s</string>
     <string name="status_bar_no_notifications_title">Nincs értesítés</string>
     <string name="status_bar_no_recent_apps">Nincs újabb alkalmazás</string>
     <string name="status_bar_ongoing_events_title">Folyamatban van</string>
     <string name="status_bar_please_disturb_button">Értesítések megjelenítése</string>
-    <string name="status_bar_recent_clear_nothing_result">Nem szabadult fel memória</string>
-    <string name="status_bar_recent_guide_bottom">Lezáráshoz húzza le</string>
-    <string name="status_bar_recent_guide_top">Bezáráshoz húzza fel</string>
     <string name="status_bar_recent_inspect_item_title">Alkalmazásinformáció</string>
     <string name="status_bar_recent_remove_item_title">Eltávolítás a listából</string>
     <string name="status_bar_settings_airplane">Repülőgép üzemmód</string>

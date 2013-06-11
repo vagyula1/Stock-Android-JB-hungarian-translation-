@@ -626,8 +626,6 @@
     <string name="permdesc_sdcardWrite">Lehetővé teszi az alkalmazás számára, hogy írjon az SD-kártyára.</string>
     <string name="permlab_mediaStorageWrite">belső tár tartalmának módosítása/törlése</string>
     <string name="permdesc_mediaStorageWrite">Lehetővé teszi az alkalmazás számára, hogy módosítsa a belső háttértár tartalmát.</string>
-    <string name="permlab_sdcardAccessAll">hozzáf. minden felh. külső tár</string>
-    <string name="permdesc_sdcardAccessAll">Minden felhasználó számára lehetővé teszi, hogy az alkalmazás hozzáférjen külső tárolókhoz.</string>
     <string name="permlab_cache_filesystem">hozzáférés a gyorsítótár fájlrendszeréhez</string>
     <string name="permdesc_cache_filesystem">Lehetővé teszi az alkalmazás számára a gyorsítótár-fájlrendszer olvasását és írását.</string>
     <string name="permlab_use_sip">internetes hívások kezdeményezése és fogadása</string>
@@ -656,8 +654,6 @@
     <string name="policydesc_encryptedStorage">Megköveteli a tárolt alkalmazásadatok titkosítását.</string>
     <string name="policylab_disableCamera">Kamerák letiltása</string>
     <string name="policydesc_disableCamera">Az összes eszközkamera használatának megakadályozása.</string>
-    <string name="policylab_disableKeyguardFeatures">Funkciók letiltása billentyűzár esetén.</string>
-    <string name="policydesc_disableKeyguardFeatures">Bizonyos funkciók használatának megakadályozása billentyűzár esetén.</string>
     <string name="phoneTypeCustom">Egyéni</string>
     <string name="phoneTypeHome">Otthoni</string>
     <string name="phoneTypeMobile">Mobil</string>
@@ -986,7 +982,6 @@ Szeretné bezárni?"</string>
     <string name="ringtone_picker_title">Csengőhangok</string>
     <string name="ringtone_unknown">Ismeretlen csengőhang</string>
     <string name="wifi_available_sign_in">Bejelentkezés Wi-Fi hálózatba</string>
-    <string name="network_available_sign_in">Bejelentkezés a hálózatba</string>
     <string name="wifi_watchdog_network_disabled">Nem sikerült csatlakozni a Wi-Fi hálózathoz</string>
     <string name="wifi_watchdog_network_disabled_detailed">" rossz internetkapcsolattal rendelkezik."</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
@@ -1020,7 +1015,6 @@ Szeretné bezárni?"</string>
     <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">ÚJ: </font></string>
     <string name="perms_description_app">Szolgáltató: %1$s.</string>
     <string name="no_permissions">Nincs szükség engedélyre</string>
-    <string name="perm_costs_money">ez pénzbe kerülhet Önnek</string>
     <string name="usb_storage_activity_title">USB-háttértár</string>
     <string name="usb_storage_title">USB-eszköz csatlakoztatva</string>
     <string name="usb_storage_message">USB-kapcsolaton keresztül csatlakozott a számítógéphez. Érintse meg a lenti gombot, ha fájlokat szeretne másolni a számítógép és az Android SD-kártyája között.</string>
@@ -1106,10 +1100,6 @@ a(z) %s fiók számára."</string>
     <string name="vpn_title_long">A(z) %s aktiválta a VPN-t</string>
     <string name="vpn_text">Érintse meg a hálózat kezeléséhez.</string>
     <string name="vpn_text_long">Csatlakozva ide: %s. Érintse meg a hálózat kezeléséhez.</string>
-    <string name="vpn_lockdown_connecting">Csatlakozás a mindig bekapcsolt VPN-hez...</string>
-    <string name="vpn_lockdown_connected">Csatlakozva a mindig bekapcsolt VPN-hez</string>
-    <string name="vpn_lockdown_error">Hiba a mindig bekapcsolt VPN-nel</string>
-    <string name="vpn_lockdown_reset">Érintse meg a kapcsolat alaphelyzetbe állításához.</string>
     <string name="upload_file">Fájl kiválasztása</string>
     <string name="no_file_chosen">Nincs fájl kiválasztva</string>
     <string name="reset">Alaphelyzet</string>
@@ -1139,8 +1129,6 @@ a(z) %s fiók számára."</string>
     <string name="share">Megosztás</string>
     <string name="find">Keresés</string>
     <string name="websearch">Webes keresés</string>
-    <string name="find_next">Következő keresése</string>
-    <string name="find_previous">Előző keresése</string>
     <string name="gpsNotifTicker">Helykérelem a következőtől: %s</string>
     <string name="gpsNotifTitle">Helykérelem</string>
     <string name="gpsNotifMessage">Igénylő %1$s (%2$s)</string>
@@ -1241,7 +1229,6 @@ a(z) %s fiók számára."</string>
     <string name="default_audio_route_name">Telefon</string>
     <string name="default_audio_route_name_headphones">Fejhallgató</string>
     <string name="default_audio_route_name_dock_speakers">Dokkolóegység hangszórója</string>
-    <string name="default_media_route_name_hdmi">HDMI</string>
     <string name="default_audio_route_category_name">Rendszer</string>
     <string name="bluetooth_a2dp_audio_route_name">Bluetooth hang</string>
     <string name="media_route_chooser_grouping_done">Kész</string>

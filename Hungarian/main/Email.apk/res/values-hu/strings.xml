@@ -549,5 +549,4 @@ Másolatot kap: %4$s
   <string name="upload_state_waiting_wifi">Várakozás Wi-Fi kapcsolatra</string>
   <string name="uploading_for">" a következőnek: "</string>
   <string name="uploading_to">"Feltöltés ide: "</string>
-    <string name="uploading_to">Uploading to <b>%s</b></string>
 </resources>
